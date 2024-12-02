@@ -1,4 +1,4 @@
-
+#Lista de tarefas
 def adicionar_tarefa(tarefas, tarefa):
     tarefas.append(tarefa)
     print(f"Tarefa '{tarefa}' adicionada com sucesso!")
